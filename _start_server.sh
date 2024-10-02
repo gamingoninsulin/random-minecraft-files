@@ -3,7 +3,7 @@
 ###################################################################################################
 
 # Paper version (add underscores instead of dots)
-PAPER_VERSION="1_21_1"
+PAPER_VERSION="1_21"
 
 # Download URL
 jar_url="https://mineacademy.org/api/paper/$PAPER_VERSION"
