@@ -1,7 +1,6 @@
+@echo off
 rem created with google gemini free version ai!
 rem ##############################################################################################################
-@echo off
-
 
 rem Set the title of the console
 title "Minecraft Server Console"
